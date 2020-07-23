@@ -83,6 +83,14 @@ Resource|Description
 [http://subs2srs.sourceforge.n…](http://subs2srs.sourceforge.net/) | An app for semi-auto deck building, with images/videos and subtitles from a video file
 [https://www.mediafire.com/fol…](https://www.mediafire.com/folder/p17g5uk4phb41/User_Uploaded_Anki_Desks) | Decks made using subs2srs
 
+#### Decks for Anki ####
+Ссылка|Описание
+-|-
+[https://mega.nz/file/eTZHiSSL#…](https://mega.nz/file/eTZHiSSL#Fe_RFyEk2e-c0M7z_pWoNkyhRtg9itpQxVgzckQNlaU) | ~30K sentences from Steins;Gate with audio (by courtesy of [Japanese Transition](https://t.me/rustojap) )  
+[https://mega.nz/#!pPQSSaoY!mBC…](https://mega.nz/#!pPQSSaoY!mBCQ-s5LSi602FZSFIvzxQ4vMpSrhX0cFLJXS_P_zSQ) | N5+ sentences (by courtesy of [Japanese Transition](https://t.me/rustojap)) 
+[https://mega.nz/#!0GBgRa7L!H92…](https://mega.nz/#!0GBgRa7L!H92emGQQizBaPGWGhaoT8AjXJWNsTulwYSvkM20KA0g) | N4+ sentences (by courtesy of [Japanese Transition](https://t.me/rustojap))
+
+
 ### Video lessons ###
 Resource|Description
 -|-
@@ -107,6 +115,7 @@ Resource|Description
 [https://audiobook.jp/](https://audiobook.jp/) | Japanese audiobooks
 [https://www.youtube.com/watch…](https://www.youtube.com/watch?v=QOLTeO-uCYU) | A way to increase the immersion density by *Matt vs Japan* (the [premade decks](https://www.mediafire.com/folder/p17g5uk4phb41/User_Uploaded_Anki_Decks) can be used as audio sources)
 [https://github.com/daigakuloun…](https://github.com/daigakulounge/ochinchingadaiskinandayo/blob/master/podcasts.md) | Like 200 japanese podcasts! You also can import a [file](https://raw.githubusercontent.com/daigakulounge/ochinchingadaiskinandayo/master/podcasts.opml) with all of this treasure into your podacst player   
+[https://mega.nz/folder/AKwUTQQ…](https://mega.nz/folder/AKwUTQQZ#MyrhiMmNmhemOGrR40bkow) | A folder with audio files with continuous dialogs from anime, films and video games from telegram channel [Japanese Transition](https://t.me/rustojap)   
 
 ### Online Teachers ###
 Resource|Description
@@ -154,7 +163,8 @@ Resource|Description
 [https://www.youtube.com/watch…](https://www.youtube.com/watch?v=yExI-Q_kQNg) | A guide on importing the Japanese explanatory dictionary Shinmeikai into Yomichan
 [https://www.youtube.com/watch…](https://www.youtube.com/watch?v=5oxdPY9eH48) | A guide on importing many various dictionaries into Yomichan
 [https://downloads.freemdict.c…](https://downloads.freemdict.com/uploads/manjushri/yomichan/) | Several dictionaries for Yomichan
-[http://jardic.ru/](http://jardic.ru/) | A site with many English/Russian ←→ Japanese dictionaries searchable at once, but stops at the first hit
+[http://jardic.ru/](http://jardic.ru/) | A site with many English/Russian ←→ Japanese dictionaries searchable at once, but stops at the first hit    
+[https://nyars.okami.su/](https://nyars.okami.su/) | New dictionary compiled from various sources.    
 
 ### Movies and Series in Japanese ###
 Resource|Description

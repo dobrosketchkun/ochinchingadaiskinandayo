@@ -83,6 +83,14 @@
 [http://subs2srs.sourceforge.n…](http://subs2srs.sourceforge.net/) | программа для полуавтоматического построения колод с изображениями / видео и субтитрами из видео файла   
 [https://www.mediafire.com/fol…](https://www.mediafire.com/folder/p17g5uk4phb41/User_Uploaded_Anki_Desks) | сделанные при помощи subs2srs колоды   
 
+#### Колоды для Анки ####
+Ссылка|Описание
+-|-
+[https://mega.nz/file/eTZHiSSL#…](https://mega.nz/file/eTZHiSSL#Fe_RFyEk2e-c0M7z_pWoNkyhRtg9itpQxVgzckQNlaU) | порядка 30К карточек с предложениями из Steins;Gate с озвучкой (от телеграм канала [Japanese Transition](https://t.me/rustojap) )  
+[https://mega.nz/#!pPQSSaoY!mBC…](https://mega.nz/#!pPQSSaoY!mBCQ-s5LSi602FZSFIvzxQ4vMpSrhX0cFLJXS_P_zSQ) | колода с предложениями уровня N5+ (содержит кандзи из более высоких уровней) (от телеграм канала [Japanese Transition](https://t.me/rustojap)) 
+[https://mega.nz/#!0GBgRa7L!H92…](https://mega.nz/#!0GBgRa7L!H92emGQQizBaPGWGhaoT8AjXJWNsTulwYSvkM20KA0g) | колода с предложениями уровня N4+ (содержит кандзи из более высоких уровней) (от телеграм канала [Japanese Transition](https://t.me/rustojap)) 
+
+
 ### Video lessons ###
 Ссылка|Описание
 -|-
@@ -106,7 +114,8 @@
 [http://radio.garden/](http://radio.garden/) | красивый и необычный сайт с цифровывми радио со всего мира   
 [https://audiobook.jp/](https://audiobook.jp/) | аудиокниги на японском    
 [https://www.youtube.com/watch…](https://www.youtube.com/watch?v=QOLTeO-uCYU) | способ повышения плотности материала для иммерсии от Matt vs Japan (можно использовать [премейд колоды]([https://www.mediafire.com/fol…]([https://www.mediafire.com/fol…](https://www.mediafire.com/folder/p17g5uk4phb41/User_Uploaded_Anki_Decks))) как источник аудио)   
-[https://github.com/daigakuloun…](https://github.com/daigakulounge/ochinchingadaiskinandayo/blob/master/podcasts.md) | около 200 подкастов на японском языке. Также есть этот [список](https://raw.githubusercontent.com/daigakulounge/ochinchingadaiskinandayo/master/podcasts.opml) в формате для импорта в плееры подкастов.    
+[https://github.com/daigakuloun…](https://github.com/daigakulounge/ochinchingadaiskinandayo/blob/master/podcasts.md) | около 200 подкастов на японском языке. Также есть этот [список](https://raw.githubusercontent.com/daigakulounge/ochinchingadaiskinandayo/master/podcasts.opml) в формате для импорта в плееры подкастов.      
+[https://mega.nz/folder/AKwUTQQ…](https://mega.nz/folder/AKwUTQQZ#MyrhiMmNmhemOGrR40bkow) | папка с аудиофайлами со сплошными диалогами из аниме, фильмов и видео-игр от телеграм канала [Japanese Transition](https://t.me/rustojap)    
 
 ### Онлайн преподаватели ###
 Ссылка|Описание
@@ -155,6 +164,7 @@
 [https://www.youtube.com/watch…](https://www.youtube.com/watch?v=5oxdPY9eH48) | Импорт кучи разных словарей в yomichan   
 [https://downloads.freemdict.c…](https://downloads.freemdict.com/uploads/manjushri/yomichan/) | конкретные файлы-словари для Ёмичан   
 [http://jardic.ru/](http://jardic.ru/) | сайт со многими словарями    
+[https://nyars.okami.su/](https://nyars.okami.su/) | новый словарь, собранный из различных источников    
 
 ### Фильмы и сериалы на японском ###
 Ссылка|Описание
